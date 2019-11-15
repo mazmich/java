@@ -1,11 +1,10 @@
-package NestedPerson;
 
-//Stwórz klasê Person i kilka pól i metod do niej.
-//Dodatkowo stwórz wewnêtrzn¹ klasê HealthSonda, któr¹ to bêdzie mo¿na pobraæ za pomoc¹ jednej z metod
-//klasy Person - a bêdzie udostêpnia³a tylko wybrane informacje na temat klasy Person
-//(których lekarz mo¿e byæ zainteresowany) - bez potrzeby podawania danych, które on nie powinien widzieæ ze wzglêdu
-//np. na ustawê o ochronie danych osobowych - a jak by³oby to w przypadki zwrócenia po prostu klasy Person.
-//Zaprezentuj w NesetedPerson t¹ implementacjê.
+//StwÃ³rz klasÄ™ Person i kilka pÃ³l i metod do niej.
+//Dodatkowo stwÃ³rz wewnÄ™trznÅ¡ klasÄ™ HealthSonda, ktÃ³rÅ¡ to bÄ™dzie moÅ¼na pobraÄ‡ za pomocÅ¡ jednej z metod
+//klasy Person - a bÄ™dzie udostÄ™pniaÅ‚a tylko wybrane informacje na temat klasy Person
+//(ktÃ³rych lekarz moÅ¼e byÄ‡ zainteresowany) - bez potrzeby podawania danych, ktÃ³re on nie powinien widzieÄ‡ ze wzglÄ™du
+//np. na ustawÄ™ o ochronie danych osobowych - a jak byÅ‚oby to w przypadki zwrÃ³cenia po prostu klasy Person.
+//Zaprezentuj w NesetedPerson tÅ¡ implementacjÄ™.
 
 public class NestedPerson {
 	
