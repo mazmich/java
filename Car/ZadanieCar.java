@@ -1,7 +1,6 @@
-
-//Zaproponuj implementacjÍ klasy abstrakcyjnej Samochod oraz klasy dziedziczπcej jπ:
-//Mercedes. StwÛrz pola, metody, metody abstrakcyjne itp.
-//Zaprezentuj dzia≥anie klasy w ZadanieCar.
+//Zaproponuj implementacjƒô klasy abstrakcyjnej Samochod oraz klasy dziedzicz≈°cej j≈°:
+//Mercedes. Stw√≥rz pola, metody, metody abstrakcyjne itp.
+//Zaprezentuj dzia≈Çanie klasy w ZadanieCar.
 
 
 public class ZadanieCar {
