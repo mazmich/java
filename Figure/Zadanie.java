@@ -1,6 +1,7 @@
-// Napisz własnš implementację klasy Figure (figura) implementujšcej interfejs NumberOfSidesPrintable,
-// a następnie napisz klasę: Square (kwadrat), która dziedziczy po Figure oraz implementuje interfejs Resetable.
-// Pokaż w klasie Zadanie użycie kodu.
+
+// Napisz własna implementacje klasy Figure (figura) implementujacej interfejs NumberOfSidesPrintable,
+// a nastepnie napisz klase: Square (kwadrat), ktora dziedziczy po Figure oraz implementuje interfejs Resetable.
+// Pokaz w klasie Zadanie uzycie kodu.
 
 
 
