@@ -1,3 +1,4 @@
+
 //Zaproponuj implementację klasy abstrakcyjnej Samochod oraz klasy dziedziczšcej jš:
 //Mercedes. Stwórz pola, metody, metody abstrakcyjne itp.
 //Zaprezentuj działanie klasy w ZadanieCar.
