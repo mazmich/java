@@ -1,7 +1,6 @@
-
-// Wczytaj z klawiatury kilka parametrów. Wyœwietl je na ekran.
-// Niech program pyta siê o parametry dopóki u¿ytkownik nie wpisze tekstu koñcz¹cego siê literami "end".
-// Spójrz na metody klasy String - aby znaleŸæ t¹ która to u³atwi.
+// Wczytaj z klawiatury kilka parametrÃ³w. WyÅ›wietl je na ekran.
+// Niech program pyta siÄ™ o parametry dopÃ³ki uÅ¼ytkownik nie wpisze tekstu koÅ„czÄ…cego siÄ™ literami "end".
+// SpÃ³jrz na metody klasy String - aby znaleÅºÄ‡ tÄ… ktÃ³ra to uÅ‚atwi.
 
 public class StrEnd {
 	
