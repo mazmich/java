@@ -1,5 +1,5 @@
 
-//resetuje d³ugoœci boków do zera
+//resetuje dlugosci bokow do zera
 public interface Resetable {
 	
 	  void resetAllAttributes();
