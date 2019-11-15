@@ -1,10 +1,9 @@
-package Person;
 
-// Zastosuj now¹ wiedzê o Java 8. 
-// Zaproponuj implementacjê obiektów: Person, VipPerson, UniversityPerson, Teacher, Student. 
+// Zastosuj nowÄ… wiedzÄ™ o Java 8. 
+// Zaproponuj implementacjÄ™ obiektÃ³w: Person, VipPerson, UniversityPerson, Teacher, Student. 
 // Sam zaproponuj co z czego dziedziczy/implementuje. 
-// Zastosuj jeœli siê da interfejsy i domyœlne metody itp.
-// Poka¿ w klasie ZadaniePerson przyk³ady u¿ycia.
+// Zastosuj jeÅ›li siÄ™ da interfejsy i domyÅ›lne metody itp.
+// PokaÅ¼ w klasie ZadaniePerson przykÅ‚ady uÅ¼ycia.
 
 public class ZadaniePerson {
 	
