@@ -1,0 +1,20 @@
+Zadanie 6:
+
+SprawdŸ jak zachowuj¹ siê wyj¹tki. 
+	1) Stwórz sytuacjê gdzie rzucane s¹ dwa wyj¹tki gdzie jeden dziedziczy po drugim:
+		np. przekopiowuj¹c kod z laboratorium. 
+		
+	2) SprawdŸ ró¿ne konfiguracje i kolejnoœci klauzuli catch.
+		Które z nich s¹ prawid³owe a których java nie pozwoli nam napisaæ.
+		
+	3) Napisz kod rzucaj¹cy b³êdem dziedzicz¹cym po RuntimeException
+		(np. NullPointerException lub inny) a nastêpnie podaj przyk³ad jego obs³ugi.
+		
+		
+Zadanie 7:
+
+Stwórz w³asne dwa wyj¹tki:
+
+	1) dziedzicz¹cy po Exception,
+	2) dziedzicz¹cy po RuntimeException.
+Zaprezentuj jego dzia³anie i obs³ugê jego w kodzie na podstawie w³asnego przyk³adu.
