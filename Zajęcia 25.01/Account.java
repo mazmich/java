@@ -1,15 +1,16 @@
-// Napisz program w którym zasymulujesz dzia³anie konta bankowego.
-// Niech konto bankowe bêdzie mia³o swoje saldo oraz udostêpnia metody do pobrania wartoœci aktualnego salda oraz pobrania z niego pieniêdzy.
+// Napisz program w ktÃ³rym zasymulujesz dziaÅ‚anie konta bankowego.
+// Niech konto bankowe bÄ™dzie miaÅ‚o swoje saldo oraz udostÄ™pnia metody do pobrania wartoÅ›ci aktualnego salda oraz pobrania z niego pieniÄ™dzy.
 
-// Wykonaj nastêpuj¹ce czynnoœci:
-// 1. Powo³aj do ¿ycia kilka w¹tków, których zadaniem bêdzie wykonanie nastêpuj¹cych akcji:
+// Wykonaj nastÄ™pujÄ…ce czynnoÅ›ci:
+// 1. PowoÅ‚aj do Å¼ycia kilka wÄ…tkÃ³w, ktÃ³rych zadaniem bÄ™dzie wykonanie nastÄ™pujÄ…cych akcji:
 
 //	 a) sprawdzenie stanu konta
 //	 b) Poczeka 500ms (Thread.sleep(500))
-//	 c) jeœli stan konta pozwala na pobranie pieniêdzy (np. 1000 z³) - pobierze je
+//	 c) jeÅ›li stan konta pozwala na pobranie pieniÄ™dzy (np. 1000 zÅ‚) - pobierze je
 
-// 2. SprawdŸ, po zakoñczeniu pracy w¹tków, czy stan konta przypadkiem nie jest na minusie?
-// 3. Jeœli tak - spróbuj naprawiæ sytuacjê tworz¹c niektóre metody synchronizacyjnymi
+// 2. SprawdÅº, po zakoÅ„czeniu pracy wÄ…tkÃ³w, czy stan konta przypadkiem nie jest na minusie?
+// 3. JeÅ›li tak - sprÃ³buj naprawiÄ‡ sytuacjÄ™ tworzÄ…c niektÃ³re metody synchronizacyjnymi
+
 
 
 public class Account {
