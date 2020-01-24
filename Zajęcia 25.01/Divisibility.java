@@ -1,7 +1,8 @@
-// UtwÛrz klasÍ dziedziczπcπ po Thread, ktÛrej zadaniem jest wypisanie wszystkich liczb
+// Utw√≥rz klasƒô dziedzicz≈°c≈° po Thread, kt√≥rej zadaniem jest wypisanie wszystkich liczb
 // podzielnych przez 3 z zakresu liczb od X do Y.
-// UtwÛrz kod, ktÛry wystartuje rÛwnolegle 5 wπtkÛw,
-// gdzie kaødy z wπtkÛw wypisze owe liczby na ekran w zakresach liczb odpowiednio 0-100,  101-200, 201-300 ...
+// Utw√≥rz kod, kt√≥ry wystartuje r√≥wnolegle 5 w≈°tk√≥w,
+// gdzie ka≈ºdy z w≈°tk√≥w wypisze owe liczby na ekran w zakresach liczb odpowiednio 0-100,  101-200, 201-300 ...
+
 
 
 public class Divisibility {
