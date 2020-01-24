@@ -1,9 +1,8 @@
-// Wykorzystaj wiedzê na temat metody join() i stwórz nastêpuj¹c¹ funkcjonalnoœæ:
+// Wykorzystaj wiedzÄ™ na temat metody join() i stwÃ³rz nastÄ™pujÄ…cÄ… funkcjonalnoÅ›Ä‡:
 
-//1. Stwórz w pêtli FOR kolejnych 10 w¹tków, które drukuj¹ na ekran liczby od 1 do 20.
-//2. Niech odpalenie kolejnego w¹tku bêdzie uruchamiane po tym jak poprzedni w¹tek zakoñczy pracê.
-//3. Zastosuj metodê join() aby uzyskaæ ¿¹dany efekt.
-
+//1. StwÃ³rz w pÄ™tli FOR kolejnych 10 wÄ…tkÃ³w, ktÃ³re drukujÄ… na ekran liczby od 1 do 20.
+//2. Niech odpalenie kolejnego wÄ…tku bÄ™dzie uruchamiane po tym jak poprzedni wÄ…tek zakoÅ„czy pracÄ™.
+//3. Zastosuj metodÄ™ join() aby uzyskaÄ‡ Å¼Ä…dany efekt.
 
 
 public class JoinPractice {
