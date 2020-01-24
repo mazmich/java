@@ -1,19 +1,21 @@
-// Pobawmy siê zdaniami typu Callable by wyliczyæ liczbê PI.
+// Pobawmy siÄ™ zdaniami typu Callable by wyliczyÄ‡ liczbÄ™ PI.
 
 // TWIERDZENIE:
-	// Niech kwadrat ma bok o d³ugoœci 2. Wpisane w niego ko³o ma promieñ 1. Pole Ko³a = PI*1^2 = PI. Pole kwadratu = 2*2=4.
-	// Stosunek pola ko³a do pola kwadratu = PI/4. St¹d PI = 4 * Pole ko³a / Pole kwadratu.
-	// Losuj¹c punkty i sprawdzaj¹c czy mieszcz¹ siê w kole spowoduje, ¿e stosunek iloœci punktów mieszcz¹cych siê w kole
-	// do liczby wszystkich punktów da przybli¿enie stosunku pól obu figur.
-	// Wystarczy pomno¿yæ przez 4 by daæ przybli¿enie liczby PI.
+	// Niech kwadrat ma bok o dÅ‚ugoÅ›ci 2. Wpisane w niego koÅ‚o ma promieÅ„ 1. Pole KoÅ‚a = PI*1^2 = PI. Pole kwadratu = 2*2=4.
+	// Stosunek pola koÅ‚a do pola kwadratu = PI/4. StÄ…d PI = 4 * Pole koÅ‚a / Pole kwadratu.
+	// LosujÄ…c punkty i sprawdzajÄ…c czy mieszczÄ… siÄ™ w kole spowoduje, Å¼e stosunek iloÅ›ci punktÃ³w mieszczÄ…cych siÄ™ w kole
+	// do liczby wszystkich punktÃ³w da przybliÅ¼enie stosunku pÃ³l obu figur.
+	// Wystarczy pomnoÅ¼yÄ‡ przez 4 by daÄ‡ przybliÅ¼enie liczby PI.
 
-// Stwórz zadanie typu Callable, które zwraca obiekt typu Double. Ka¿de zadanie (Task) polega na:
-	// 1. 10 000 razy losuje punkt jako dwie liczby z zakresu <-1, 1> (wspó³rzêdne x i y), 
-	//    a nastêpnie sprawdza czy owy punkt  znajduje siê wewn¹trz ko³a jednostkowego (x^2+y^2 <= 1).
-	//    Zliczamy iloœæ takich sytuacji kiedy punkt mieœci³ siê w kole.
+// StwÃ³rz zadanie typu Callable, ktÃ³re zwraca obiekt typu Double. KaÅ¼de zadanie (Task) polega na:
+	// 1. 10 000 razy losuje punkt jako dwie liczby z zakresu <-1, 1> (wspÃ³Å‚rzÄ™dne x i y), 
+	//    a nastÄ™pnie sprawdza czy owy punkt  znajduje siÄ™ wewnÄ…trz koÅ‚a jednostkowego (x^2+y^2 <= 1).
+	//    Zliczamy iloÅ›Ä‡ takich sytuacji kiedy punkt mieÅ›ciÅ‚ siÄ™ w kole.
 
-	// 2. Ka¿de zadanie da przybli¿enie liczby PI. Zbierz te wyniki - wyznacz œredni¹ za wszystkie w¹tki  i poka¿ wynik.
-	// 3. Skorzystaj z Executora jako wykonywacza zadañ a do generowania liczb losowych - klasy Random
+	// 2. KaÅ¼de zadanie da przybliÅ¼enie liczby PI. Zbierz te wyniki - wyznacz Å›redniÄ… za wszystkie wÄ…tki  i pokaÅ¼ wynik.
+	// 3. Skorzystaj z Executora jako wykonywacza zadaÅ„ a do generowania liczb losowych - klasy Random
+
+
 
 
 public class Pi {
